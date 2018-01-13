@@ -1,0 +1,19 @@
+body {
+    background-color: #9f9f9f;
+    width: 80%;
+    text-align: center;
+    padding: 0em 4em;
+}
+
+div.base_content {
+    background-color: #F8F8F8;
+    padding: 1em 4em;
+}
+
+div.pub {
+    padding: 1em;
+}
+
+div.pub_list {
+    text-align: left;
+}
